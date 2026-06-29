@@ -1,6 +1,5 @@
-> [!NOTE]
-> Hi I'm Topaz! 👋
-> Just a Year-0 graduate student.
+<font color="blue">Hi I'm Topaz! 👋</font><br>
+<font color="blue">Just a Year-0 graduate student.</font>
 
 <!--
 **yaoshi1103/yaoshi1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
