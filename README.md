@@ -1,6 +1,6 @@
-[！NOTE]
-## Hi I'm Topaz！ 👋
-## Just a Year‑0 graduate student.
+> [!NOTE]
+> Hi I'm Topaz! 👋
+> Just a Year-0 graduate student.
 
 <!--
 **yaoshi1103/yaoshi1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
